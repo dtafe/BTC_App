@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClaims.Core", "BtcClaims.Core\BtcClaims.Core.csproj", "{30BD7668-8F5D-4B94-8512-C956F89E6EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClaims.Data", "BtcClaims.Data\BtcClaims.Data.csproj", "{DF19994E-5028-40CE-B1F5-1F7860792ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClaims.Service", "BtcClaims.Service\BtcClaims.Service.csproj", "{FDAF77CD-94E6-4F9F-B7A7-A5CE79368D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClaims.Common", "BtcClaims.Common\BtcClaims.Common.csproj", "{EA04C354-119F-4B71-98F6-CD766E902400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClaims.Web", "BtcClaims.Web\BtcClaims.Web.csproj", "{AAF165DE-2E8A-49A0-A70A-2CF8847B70BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClaims.Web.Tests", "BtcClaims.Web.Tests\BtcClaims.Web.Tests.csproj", "{46021016-53F1-410C-8431-9D91319D5841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BD7668-8F5D-4B94-8512-C956F89E6EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BD7668-8F5D-4B94-8512-C956F89E6EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BD7668-8F5D-4B94-8512-C956F89E6EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BD7668-8F5D-4B94-8512-C956F89E6EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF19994E-5028-40CE-B1F5-1F7860792ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF19994E-5028-40CE-B1F5-1F7860792ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF19994E-5028-40CE-B1F5-1F7860792ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF19994E-5028-40CE-B1F5-1F7860792ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAF77CD-94E6-4F9F-B7A7-A5CE79368D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAF77CD-94E6-4F9F-B7A7-A5CE79368D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAF77CD-94E6-4F9F-B7A7-A5CE79368D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAF77CD-94E6-4F9F-B7A7-A5CE79368D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA04C354-119F-4B71-98F6-CD766E902400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA04C354-119F-4B71-98F6-CD766E902400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA04C354-119F-4B71-98F6-CD766E902400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA04C354-119F-4B71-98F6-CD766E902400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF165DE-2E8A-49A0-A70A-2CF8847B70BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF165DE-2E8A-49A0-A70A-2CF8847B70BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF165DE-2E8A-49A0-A70A-2CF8847B70BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF165DE-2E8A-49A0-A70A-2CF8847B70BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46021016-53F1-410C-8431-9D91319D5841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46021016-53F1-410C-8431-9D91319D5841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46021016-53F1-410C-8431-9D91319D5841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46021016-53F1-410C-8431-9D91319D5841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
