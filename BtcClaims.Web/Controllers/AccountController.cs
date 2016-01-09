@@ -12,7 +12,7 @@ using BtcClaims.Web.Models;
 
 namespace BtcClaims.Web.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class AccountController : Controller
     {
         private ApplicationSignInManager _signInManager;
