@@ -1,3 +1,11 @@
 ﻿body {
 
 }
+.align-center, .align-center input {
+    text-align: center;
+}
+@media (mix-width: 500px){
+    .align-center, .align-center input {
+        text-align: center !important;
+    }
+}
